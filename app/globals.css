@@ -5,7 +5,7 @@
   --color-secondary: #3b82f6;
   --color-accent: #22c55e;
   --color-bg-soft: #f8fafc;
-  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-sans: var(--font-inter), system-ui, -apple-system, sans-serif;
 }
 
 :root {
