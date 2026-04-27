@@ -19,6 +19,7 @@ export default function ProjectsShowcase() {
             </div>
           </Link>
         ))}
+        
       </div>
     </section>
   );
